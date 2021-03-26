@@ -32,8 +32,8 @@ This project was developed using the following tecnologies:
 
 ## 💻 Projeto/Project
 
-Esse projeto é um site sobre a collab entre Travis Scott e Nike, feito para treinar e aprender animações em Javascript </br>
-This project is a site about the Travis Scott x Nike collab, built with the goal of learning how to use animations in Javascript
+Esse projeto é um site sobre a collab entre Travis Scott e Nike, feito para treinar e aprender animações em Javascript. </br>
+This project is a site about the Travis Scott x Nike collab, built with the goal of learning how to use animations in Javascript.
 
 ## :memo: Licença/License
 
